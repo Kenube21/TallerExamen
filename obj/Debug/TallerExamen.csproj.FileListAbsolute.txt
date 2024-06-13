@@ -1,0 +1,2 @@
+C:\Users\kenda\OneDrive\Documentos\Programacion2\TallerExamen\obj\Debug\TallerExamen.csproj.AssemblyReference.cache
+C:\Users\kenda\OneDrive\Documentos\Programacion2\TallerExamen\obj\Debug\TallerExamen.csproj.CoreCompileInputs.cache
